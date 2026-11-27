@@ -1,1 +1,1 @@
-enabled_features: [feature-a]
+enabled_features: [feature-a, feature-b]
